@@ -22,7 +22,7 @@ Python3.6.X及其以上版本
 
 5，反弹shell功能
 
-6，支持携带cookie发包
+6，支持导入cookie
 
 7，支持配置http/https代理
 
